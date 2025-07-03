@@ -1,0 +1,131 @@
+.maintitle{
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-size: 90px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.design {
+    background: linear-gradient(to right, cyan, blue, purple);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.second {
+    text-align: center;
+    font-family: "Nunito Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-top: 20px;
+}
+.start{
+    background-color: rgb(133, 37, 177);
+    color: white;
+    font-family: "Nunito Sans";
+    font-style: normal;
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 8px 10px 8px 10px;
+    margin: 0 auto;
+    display: block;
+    margin-bottom: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.start:hover{
+    background-color: rgb(76, 30, 97);
+    box-shadow: 2px 3px 10px rgba(0, 0, 0, 0.3);
+}
+.start:active{
+     background-color: rgb(42, 9, 58);
+
+}
+
+
+.number-1 {
+    width: 139px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+    transition: width 0.7s, opacity 0.4s;
+}
+.number-2 {
+    width: 139px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-right: 3px;
+    cursor: pointer;
+     transition: width 0.7s, opacity 0.4s;
+}
+.number-3 {
+    width: 139px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+     transition: width 0.7s, opacity 0.4s;
+
+}
+.number-4 {
+    width: 139px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+     transition: width 0.7s, opacity 0.4s;
+
+}
+.number-5 {
+    width: 139px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+    transition: width 0.7s, opacity 0.4s;
+}
+.number-1:hover{
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 145px;
+}
+.number-2:hover{
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 145px;
+}
+.number-3:hover{
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 145px;
+}
+.number-4:hover{
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 145px;
+}
+.number-5:hover{
+    box-shadow: 4px 5px 10px rgba(0, 0, 0, 0.3);
+    width: 145px;
+}
+.number-1:active{
+    color: transparent;
+    opacity: 70%;
+}
+.number-2:active{
+    color: transparent;
+    opacity: 70%;
+}
+.number-3:active{
+    color: transparent;
+    opacity: 70%;
+}
+.number-4:active{
+    color: transparent;
+    opacity: 70%;
+}
+.number-5:active{
+    color: transparent;
+    opacity: 70%;
+}
