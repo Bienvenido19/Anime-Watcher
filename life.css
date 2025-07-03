@@ -1,0 +1,36 @@
+.billionaire {
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.tips {
+    width: 200px;
+    margin-left: 30px;
+}
+.line-space {
+    width: 200px;
+    margin: 30px auto;
+}
+.dream{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 30px;
+    margin-bottom: 0px;
+}
+.by {
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.there{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.bio{
+    font-weight: bold;
+    margin-left: 30px;
+
+}
+.bionote{
+        margin-left: 30px;
+    margin-top: 15px;
+}
